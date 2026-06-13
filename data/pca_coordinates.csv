@@ -1,0 +1,12 @@
+Model,Origin,PC1,PC2
+mistral-small-2603,EU,1.524,1.303
+deepseek-v4-flash,CN,-4.897,-2.384
+seed-2.0-lite,CN,-2.301,3.085
+qwen3.6-plus,CN,-2.149,-1.034
+minimax-m2.7,CN,-2.073,0.016
+glm-5.1,CN,-0.599,1.107
+gpt-5.3-chat,US,1.867,0.471
+gpt-4o-mini,US,4.2,-0.292
+claude-sonnet-4.6,US,3.573,-0.948
+gemini-3.1-flash-lite,US,-0.427,1.553
+grok-4.3,US,1.282,-2.878
