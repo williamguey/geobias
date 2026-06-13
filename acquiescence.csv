@@ -1,0 +1,12 @@
+M,acquiescence_mean_raw_agreement,framing_swing
+mistral-small-2603,1.216,0.445
+deepseek-v4-flash,0.277,0.478
+seed-2.0-lite,0.125,0.018
+qwen3.6-plus,-0.535,0.449
+minimax-m2.7,-0.249,0.405
+glm-5.1,-0.576,0.604
+gpt-5.3-chat,-0.041,0.066
+gpt-4o-mini,0.885,0.158
+claude-sonnet-4.6,-0.156,0.023
+gemini-3.1-flash-lite,-0.692,0.536
+grok-4.3,0.015,0.017

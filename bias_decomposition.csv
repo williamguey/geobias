@@ -1,0 +1,12 @@
+model,origin,NET_bias,swing_half,raw_agree,direction,biased_p<.05,p_t_cell,p_wilcoxon_cell,p_t_net14,p_wilcoxon_net14,holm_p28,holm_sig.05
+deepseek-v4-flash,CN,-1.194,0.239,0.277,Pro-CN,yes,3.88e-06,2.75e-05,5.30e-04,3.05e-03,4.26e-05,yes
+minimax-m2.7,CN,-0.737,0.203,-0.249,Pro-CN,yes,5.33e-04,1.55e-03,6.81e-03,1.07e-02,4.80e-03,yes
+qwen3.6-plus,CN,-0.727,0.224,-0.535,Pro-CN,yes,3.28e-03,2.90e-03,1.06e-02,1.34e-02,2.63e-02,yes
+seed-2.0-lite,CN,-0.721,0.009,0.125,Pro-CN,yes,8.20e-05,4.16e-04,4.68e-03,7.65e-03,8.20e-04,yes
+gpt-4o-mini,US,0.523,0.079,0.885,Pro-US,no,6.07e-02,8.15e-02,2.13e-02,2.07e-02,3.64e-01,no
+claude-sonnet-4.6,US,0.408,0.012,-0.156,Pro-US,no,5.05e-02,1.20e-01,1.38e-01,2.41e-01,3.53e-01,no
+glm-5.1,CN,-0.353,0.302,-0.576,Pro-CN,no,6.13e-02,2.98e-02,5.34e-02,4.94e-02,3.64e-01,no
+gemini-3.1-flash-lite,US,-0.285,0.268,-0.692,Pro-CN,no,1.19e-01,1.15e-01,4.32e-02,6.19e-02,4.77e-01,no
+grok-4.3,US,-0.07,0.008,0.015,Pro-CN,no,7.90e-01,6.95e-01,8.50e-01,8.08e-01,1.00e+00,no
+mistral-small-2603,EU,0.045,0.223,1.216,Pro-US,no,8.73e-01,8.14e-01,7.55e-01,4.33e-01,1.00e+00,no
+gpt-5.3-chat,US,0.025,0.033,-0.041,Pro-US,no,8.99e-01,7.28e-01,9.26e-01,9.52e-01,1.00e+00,no

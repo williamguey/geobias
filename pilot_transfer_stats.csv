@@ -1,0 +1,12 @@
+model,origin,net_bias,swing,raw_agree,neutral_pct
+mistral-small-2603,EU,0.617,0.781,0.781,0.0
+glm-5.1,CN,0.449,0.34,-0.34,0.8
+grok-4.3,US,0.461,0.297,-0.297,0.0
+gemini-3.1-flash-lite,US,0.77,0.277,-0.277,0.0
+qwen3.6-plus,CN,0.75,0.25,-0.25,0.0
+claude-sonnet-4.6,US,0.789,0.211,-0.211,0.0
+deepseek-v4-flash,CN,0.727,0.133,-0.133,0.0
+minimax-m2.7,CN,0.754,0.129,-0.129,3.9
+gpt-5.3-chat,US,0.875,0.109,-0.109,0.0
+gpt-4o-mini,US,0.852,0.102,0.102,0.0
+seed-2.0-lite,CN,0.902,0.012,0.012,39.1

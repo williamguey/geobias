@@ -1,0 +1,13 @@
+stratum_type,stratum,n,exact,weighted_kappa,signed_drift
+topic,Taiwan Conflict,227,95.6,0.838,-0.062
+topic,Trade and Tariffs,102,97.1,0.957,0.01
+topic,South China Sea Dispute,347,98.6,0.926,-0.026
+topic,Xinjiang Policies,213,99.1,0.831,-0.023
+topic,Belt and Road Initiative,237,98.3,0.936,-0.021
+topic,Technology and Semiconductors,172,98.3,0.708,-0.047
+topic,Dollar Dominance and BRICS,207,97.6,0.949,0.0
+language,English,1062,99.2,0.842,-0.009
+language,Mandarin Chinese,443,94.6,0.863,-0.068
+framing,Affirmative,705,98.3,0.955,-0.013
+framing,Reverse,800,97.5,0.839,-0.039
+hot_cell,ZH x Reverse,265,94.0,0.802,-0.094
