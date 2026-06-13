@@ -82,7 +82,8 @@ OUTPUT_DIR = "."                          # where figures + report are written
 # The geopolitical study is bilingual (English + Mandarin Chinese), so we only
 # need those two pools. We import them from your existing file to avoid
 # duplicating ~350 lines. Change this path if your file is named differently.
-WRAPPER_SOURCE = os.getenv("WRAPPER_SOURCE", "app (12).py")
+WRAPPER_SOURCE = os.getenv("WRAPPER_SOURCE",
+                           os.path.join(os.path.dirname(os.path.abspath(__file__)), "wrapper_pools.py"))
 
 def _load_wrapper_pools(path):
     """Extract PREFIXES/SUFFIXES dicts from the existing app file WITHOUT
